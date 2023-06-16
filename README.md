@@ -12,4 +12,4 @@ ARSY BAGJA MUGIA GUNAWAN - 1301204018
 ALDONI IBRAHIM - 1301204479
 
 Link :
-tubes-visdat-pergerakansaham.up.railway.app
+[Tubes Visdat Pergerakan Saham](tubes-visdat-pergerakansaham.up.railway.app)
