@@ -9,6 +9,7 @@ Platform host yang digunakan disini yaitu Railway.app
 
 ANGGOTA
 ARSY BAGJA MUGIA GUNAWAN - 1301204018
+
 ALDONI IBRAHIM - 1301204479
 
 Link :
