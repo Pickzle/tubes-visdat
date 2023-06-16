@@ -6,4 +6,4 @@ environments:
       commands:
         - pip install -r requirements.txt
     run:
-      command: bokeh serve --allow-websocket-origin=* --port=$PORT mainapp.py
+      command: bokeh serve --allow-websocket-origin=tubes-visdat-pergerakansaham.up.railway.app
